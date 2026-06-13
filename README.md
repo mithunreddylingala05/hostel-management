@@ -1,4 +1,4 @@
-# 🎥 HostelHub: Cinematic Noir
+# 🎥 HostelHub
 > **Next-Generation Residential Management Operations.**
 
 HostelHub is a high-performance, role-based residential management platform defined by its signature **Cinematic Noir** aesthetic. This repository contains both the **React/Vite Frontend** and the **Node.js/Express Backend**.
@@ -79,8 +79,3 @@ hostel-management/
 1. Connect repository to Netlify.
 2. Build Command: `npm run build` | Publish Directory: `dist`
 3. Client-side routing is handled via our pre-configured `netlify.toml`.
-
----
-
-Designed with 🖤 by **Antigravity**.
-*Command Core Intelligence Active.*
